@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  TrieTree.cpp
+c:\users\oria segal\desktop\תכניות\project2\project2\trietree.cpp(62): warning C4018: '<': signed/unsigned mismatch
+c:\users\oria segal\desktop\תכניות\project2\project2\trietree.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\oria segal\desktop\תכניות\project2\project2\trietree.cpp(132): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project2.vcxproj -> C:\Users\oria segal\Desktop\תכניות\Project2\Debug\Project2.exe
