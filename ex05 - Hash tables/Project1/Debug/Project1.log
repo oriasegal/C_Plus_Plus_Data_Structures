@@ -1,0 +1,41 @@
+﻿  Main.cpp
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(267): warning C4018: '<': signed/unsigned mismatch
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(277): warning C4018: '<': signed/unsigned mismatch
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(286): error C2011: 'Hitem': 'class' type redefinition
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(140): note: see declaration of 'Hitem'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(312): error C2011: 'Hclient': 'class' type redefinition
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(150): note: see declaration of 'Hclient'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(324): error C2011: 'Item': 'class' type redefinition
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(285): note: see declaration of 'Item'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(334): error C2011: 'Client': 'class' type redefinition
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(322): note: see declaration of 'Client'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\main.cpp(11): error C2079: 'hit' uses undefined class 'Item'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\main.cpp(12): error C2079: 'c' uses undefined class 'Client'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\main.cpp(28): error C2664: 'void Lending::addItem(Item)': cannot convert argument 1 from 'int' to 'Item'
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\main.cpp(28): note: use of undefined type 'Item'
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(285): note: see declaration of 'Item'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\main.cpp(29): error C2664: 'bool Lending::delItem(Item)': cannot convert argument 1 from 'int' to 'Item'
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\main.cpp(29): note: use of undefined type 'Item'
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(285): note: see declaration of 'Item'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\main.cpp(31): error C2664: 'void Lending::addClient(Client)': cannot convert argument 1 from 'int' to 'Client'
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\main.cpp(31): note: use of undefined type 'Client'
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(322): note: see declaration of 'Client'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\main.cpp(33): error C2660: 'Lending::addLanding': function does not take 1 arguments
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(220): note: see declaration of 'Lending::addLanding'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\main.cpp(35): error C2660: 'Lending::delLanding': function does not take 1 arguments
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(235): note: see declaration of 'Lending::delLanding'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\main.cpp(36): error C2664: 'void Lending::printLandingItem(Item)': cannot convert argument 1 from 'int' to 'Item'
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\main.cpp(36): note: use of undefined type 'Item'
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(285): note: see declaration of 'Item'
+  HashTable.cpp
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(267): warning C4018: '<': signed/unsigned mismatch
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(277): warning C4018: '<': signed/unsigned mismatch
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(286): error C2011: 'Hitem': 'class' type redefinition
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(140): note: see declaration of 'Hitem'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(312): error C2011: 'Hclient': 'class' type redefinition
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(150): note: see declaration of 'Hclient'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(324): error C2011: 'Item': 'class' type redefinition
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(285): note: see declaration of 'Item'
+c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(334): error C2011: 'Client': 'class' type redefinition
+  c:\users\oria segal\desktop\תכניות\project5\project1\project1\hashtable.h(322): note: see declaration of 'Client'
+  Generating Code...
