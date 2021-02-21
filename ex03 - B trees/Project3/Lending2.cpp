@@ -1,4 +1,4 @@
-#include "Lending.h"//hodaya fenesh 318630571
+#include "Lending.h"
 
 istream& operator>>(istream& is, Lending& l)
 {
