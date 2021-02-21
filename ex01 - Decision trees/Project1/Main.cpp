@@ -1,6 +1,5 @@
 /*
 Oria Segal
-209338193
 Question 1
 This program is using a decition tree to help customers with their questions.
 */
