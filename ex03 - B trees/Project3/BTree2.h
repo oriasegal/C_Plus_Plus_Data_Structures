@@ -1,4 +1,4 @@
-#pragma once//hodaya fenesh 318630571
+#pragma once
 #include <iostream>
 #include <string>
 #include <list>
