@@ -1,6 +1,5 @@
 /*
 Oria Segal
-209338193
 Question 2
 This program is managing a list of word with the trie tree stucture.
 */
