@@ -1,5 +1,3 @@
-//Hadas Levi 206786519
-//Oria Segal 209338193
 #include <iostream>
 #include"HashTable.h"
 
