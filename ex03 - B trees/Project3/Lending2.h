@@ -1,4 +1,4 @@
-#pragma once//hodaya fenesh 318630571
+#pragma once
 #include <iostream>
 #include <string>
 using namespace std;
@@ -19,6 +19,4 @@ public:
 	bool operator<=(const Lending x);
 	bool operator>=(const Lending x);
 	void set_date(string str1);
-
-
 };
